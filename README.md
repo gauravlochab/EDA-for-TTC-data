@@ -2,12 +2,12 @@
 
 
 EDA for the Subway delay dataset
-* Link to google drive folder: subway_eda(https://drive.google.com/drive/folders/1WkEfLebklP9EhOLeq5OfD8iJRrhTek0_)
+* Link to google drive folder: [subway_eda](https://drive.google.com/drive/folders/1WkEfLebklP9EhOLeq5OfD8iJRrhTek0_)
 
 Folder structure: 2 Colab(IPYNB) Notebooks
 
-* One for data_prep(https://colab.research.google.com/drive/1gHFwRFB1DiwtLYP2TDJfhQzwZRXtUUMi?usp=sharing)
-* Second for EDA(https://colab.research.google.com/drive/1JnoIp_h_O9rnaq3hAnl7k_8smTwUdgS0?usp=sharing)
+* One for [data_prep](https://colab.research.google.com/drive/1gHFwRFB1DiwtLYP2TDJfhQzwZRXtUUMi?usp=sharing)
+* Second for [EDA](https://colab.research.google.com/drive/1JnoIp_h_O9rnaq3hAnl7k_8smTwUdgS0?usp=sharing)
 * Other supporting data in Csv and JSONs used in the code for cleaning and analysis.
 
 How to run the code:
