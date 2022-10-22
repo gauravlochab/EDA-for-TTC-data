@@ -1,6 +1,6 @@
-# EDA-for-TTC-data
+# Toronto Transit Commission Delay Data
 
-
+Information on the datasets used in this analysis can be located at the following [link](https://open.toronto.ca/#917dd033-1fe5-4ba8-04ca-f683eec89761) 
 EDA for the Subway delay dataset
 * Link to google drive folder: [subway_eda](https://drive.google.com/drive/folders/1WkEfLebklP9EhOLeq5OfD8iJRrhTek0_)
 
