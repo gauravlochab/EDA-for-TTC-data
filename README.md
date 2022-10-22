@@ -6,9 +6,9 @@ EDA for the Subway delay dataset
 
 Folder structure: 2 Colab(IPYNB) Notebooks
 
-1)One for data_prep(https://colab.research.google.com/drive/1gHFwRFB1DiwtLYP2TDJfhQzwZRXtUUMi?usp=sharing)
-2)Second for EDA(https://colab.research.google.com/drive/1JnoIp_h_O9rnaq3hAnl7k_8smTwUdgS0?usp=sharing)
-and other supporting data in sheets and JSONs used in the code for cleaning and analysis.
+* One for data_prep(https://colab.research.google.com/drive/1gHFwRFB1DiwtLYP2TDJfhQzwZRXtUUMi?usp=sharing)
+* Second for EDA(https://colab.research.google.com/drive/1JnoIp_h_O9rnaq3hAnl7k_8smTwUdgS0?usp=sharing)
+* Other supporting data in Csv and JSONs used in the code for cleaning and analysis.
 
 How to run the code:
 * Make a shortcut of the shared folder in google drive.
